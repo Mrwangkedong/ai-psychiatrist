@@ -1,0 +1,8 @@
+{
+  "name": "AI赋能·全龄守护 - 智能心理咨询辅导平台",
+  "description": "基于AI技术与专业心理学的一站式全龄化心理健康服务平台，提供分龄测评、AI智能咨询、危机预警及资源衔接服务。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
